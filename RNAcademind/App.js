@@ -4,7 +4,10 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
 	return (
 		<View style={styles.container}>
-			<Text>Testing Both Devices: Android and iOs!</Text>
+			<Text></Text>
+			<Text>Android!</Text>
+			<Text>&</Text>
+			<Text>iOs!</Text>
 			<StatusBar style="auto" />
 		</View>
 	);
