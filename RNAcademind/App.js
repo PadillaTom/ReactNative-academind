@@ -8,6 +8,7 @@ export default function App() {
 			<Text>Android!</Text>
 			<Text>&</Text>
 			<Text>iOs!</Text>
+			<Text>(Removed EXPO folder)</Text>
 			<StatusBar style="auto" />
 		</View>
 	);
